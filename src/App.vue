@@ -4,6 +4,9 @@
   
  <main>
       <div class="search-box">
+        <div>
+          <h1> Search Weather for any city</h1>
+        </div>
         <input 
           type="text" 
           class="search-bar" 
